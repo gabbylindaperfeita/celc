@@ -1,4 +1,11 @@
 body {
-    background-color: rgb(172, 8, 8);
-    
+    background-color: rgb(167, 8, 8);
+}
+
+P{
+    color:black
+}
+
+.cap {
+    font-style: italic;
 }
