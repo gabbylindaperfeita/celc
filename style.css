@@ -13,3 +13,17 @@ body {
 .img1 {
     width: 50%
 }
+
+
+header  {
+    border-bottom: solid 2px    rgb(167, 8, 8); 
+    padding: 20px;
+    font-size: 32px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row
+};
+
+h1 {
+      font-size:  250%;
