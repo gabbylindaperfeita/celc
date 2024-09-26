@@ -1,8 +1,8 @@
 body {
     background-color: rgb(167, 8, 8);
-}
-
-P{
+    text-align: center;
+    margin: 10px;
+    font-family: "Quicksand", sans-serif;
     color:black
 }
 
