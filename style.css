@@ -28,3 +28,5 @@ header  {
 h1 {
       font-size:  250%;
       padding: 2px;
+      .categoria-img   image-rendering: {
+         opacity 0.5 ;
